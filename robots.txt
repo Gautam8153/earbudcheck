@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://earbudcheck.onrender.com/sitemap.xml
+Disallow: /order/
+Sitemap: https://nervecalm.onrender.com/sitemap.xml
