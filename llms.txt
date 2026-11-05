@@ -1,6 +1,6 @@
 # EarbudCheck
 > Independent buying guide for budget wireless earbuds under ₹3,000. Contains affiliate links, disclosed on every page.
 
-- [Home](https://usa-newclaude.vercel.app/)
-- [Blog](https://usa-newclaude.vercel.app/blog)
-- [About](https://usa-newclaude.vercel.app/about)
+- [Home](https://earbudcheck.onrender.com/)
+- [Blog](https://earbudcheck.onrender.com/blog.html)
+- [About](https://earbudcheck.onrender.com/about.html)
