@@ -1,6 +1,26 @@
-# NerveCalm Guide
-> Independent buyer's guide for NerveCalm. Not the seller. Contains affiliate links, disclosed on every page. Not medical advice.
+# NerveCalm
 
-- [Home](https://nervecalm.onrender.com/)
-- [Blog](https://nervecalm.onrender.com/blog.html)
-- [About](https://nervecalm.onrender.com/about.html)
+> NerveCalm is a Nerve Health Support Supplement. NerveCalm is a daily supplement formulated to support nerve health rather than simply masking discomfort. Its blend of targeted nutrients and botanical extracts is designed to nourish the nervous system, promote healthy nerve function, and help maintain comfortable sensation over time. Unlike products that only provide temporary relief, NerveCalm takes a supportive approach to nerve wellness from within.
+
+## Pages
+- [Home — overview, pricing and FAQ](https://nervecalm.onrender.com/)
+- [What NerveCalm is](https://nervecalm.onrender.com/what-is-product.html)
+- [How NerveCalm works](https://nervecalm.onrender.com/how-it-works.html)
+- [NerveCalm ingredients, explained individually](https://nervecalm.onrender.com/ingredients.html)
+- [NerveCalm benefits](https://nervecalm.onrender.com/benefits.html)
+- [NerveCalm customer reviews](https://nervecalm.onrender.com/reviews.html)
+- [NerveCalm frequently asked questions](https://nervecalm.onrender.com/faq.html)
+
+## Blog
+- [What To Know Before Trying NerveCalm](https://nervecalm.onrender.com/blog/what-to-know-before-trying.html): A clear, honest look at NerveCalm — what it contains, how it is used, what it costs, and the guarantee behind it — before you decide to order.
+- [How To Read A Supplement Label](https://nervecalm.onrender.com/blog/how-to-read-a-supplement-label.html): Serving size, proprietary blends and other ingredients explained — using NerveCalm's own label as a real example of what to look for.
+- [NerveCalm: An Honest Review](https://nervecalm.onrender.com/blog/nervecalm-honest-review.html): An honest look at NerveCalm — what it claims to do, what it actually contains, what it costs, and who it is realistically a good fit for.
+- [Alpha-Lipoic Acid vs Acetyl-L-Carnitine: What Each Does In NerveCalm](https://nervecalm.onrender.com/blog/alpha-lipoic-acid-vs-acetyl-l-carnitine.html): Alpha-Lipoic Acid and Acetyl-L-Carnitine are both in NerveCalm but play different roles — here is what each one actually does in the formula.
+- [Daily Habits That Complement NerveCalm](https://nervecalm.onrender.com/blog/daily-habits-that-complement-it.html): Simple daily habits — hydration, timing, consistency — that pair well with NerveCalm as part of a nerve health support routine.
+- [NerveCalm FAQ: Dosage, Timing, Who Should Skip It](https://nervecalm.onrender.com/blog/nervecalm-faq.html): Common questions about NerveCalm — dosage, timing, the guarantee, and who should skip it — answered directly.
+- [Terms of Use](https://nervecalm.onrender.com/terms.html)
+- [Privacy Policy](https://nervecalm.onrender.com/privacy-policy.html)
+- [Disclaimer](https://nervecalm.onrender.com/disclaimer.html)
+- [Refund Policy](https://nervecalm.onrender.com/refund-policy.html)
+- [About Us](https://nervecalm.onrender.com/about.html)
+- [Contact Us](https://nervecalm.onrender.com/contact.html)
